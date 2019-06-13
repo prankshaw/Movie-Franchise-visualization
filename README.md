@@ -1,2 +1,1 @@
-# Movie-Franchise-visualization
-Visualizing different aspects about movie franchises(Hollywood), including their net gross, IMDB rating and more
+Using D3 to build data visualizations for a movie dataset.
